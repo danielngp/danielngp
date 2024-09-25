@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### My programing skills:
+1. Python
+2. Go
+3. Bash
+4. C
+5. Java
+
 <!--
 **danielngp/danielngp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
